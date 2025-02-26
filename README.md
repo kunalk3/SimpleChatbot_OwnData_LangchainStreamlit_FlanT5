@@ -86,6 +86,7 @@ I have created a __Question Answer System__ using LangChain framework and HF mod
 ## :bulb: Demo
 #### :bookmark: _Output_ - 
 
+https://github.com/user-attachments/assets/a99229d9-6891-4e76-a1e4-c964a816ab1f
 
 ---  
   
